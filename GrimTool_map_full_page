@@ -7,6 +7,7 @@
 // @match        https://www.grimtools.com/map/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=grimtools.com
 // @grant        none
+// @license      MIT
 // ==/UserScript==
 
 function setFullPage() {
